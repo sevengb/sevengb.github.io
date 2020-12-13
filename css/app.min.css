@@ -462,8 +462,8 @@ body {
 .page_button:hover {
   color: #fff;
   text-decoration: none;
-  -webkit-box-shadow: 0 0 50px rgba(60,168,255,.3);
-  box-shadow: 0 0 50px rgba(60,168,255,.3);
+  -webkit-box-shadow: 0 0 50px rgba(60,168,255,.35);
+  box-shadow: 0 0 50px rgba(60,168,255,.35);
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease
